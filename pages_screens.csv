@@ -1,94 +1,84 @@
-# ----------------------------------------
-# Report CSV Export
-# Account: PSI Website
-# Property: Raw Website Data
-# ----------------------------------------
-# 
-# All Users
-# Start date: 20230608
-# End date: 20230705
-
 Page title and screen class,Views,Users,Views per user,Average engagement time,Event count,Conversions,Total revenue
 Information Technology | Planned Systems International (PSI) | Arlington,1829,1280,1.42890625,15.61328125,5723,0,0
-Careers | PSI Website,448,333,1.3453453453453454,16.456456456456458,1300,0,0
-About PSI | PSI Website,321,222,1.445945945945946,30.47747747747748,582,0,0
-Job Search | PSI Website,288,226,1.2743362831858407,37.63274336283186,850,0,0
-Team,237,159,1.490566037735849,55.503144654088054,394,0,0
-Contact Us | PSI Website,159,134,1.1865671641791045,28.007462686567163,355,0,0
-Locations | PSI Website,127,98,1.2959183673469388,36.704081632653065,269,0,0
-contract vehicles,89,45,1.9777777777777779,34.044444444444444,125,0,0
-subsidiaries,80,55,1.4545454545454546,37.56363636363636,147,0,0
-Differences between Impact Levels 4 and 5—Take 2,68,52,1.3076923076923077,86.26923076923077,250,0,0
-Health | PSI Website,57,48,1.1875,39.354166666666664,145,0,0
-Partners | PSI Website,49,45,1.0888888888888888,26.644444444444446,89,0,0
-(not set),45,45,1,4.777777777777778,196,0,0
-capabilities,45,38,1.1842105263157894,23.55263157894737,90,0,0
-Press Releases | PSI Website,41,29,1.4137931034482758,57.41379310344828,57,0,0
-Benefits | PSI Website,38,35,1.0857142857142856,33.97142857142857,88,0,0
+Careers | PSI Website,448,333,1.345345345,16.45645646,1300,0,0
+About PSI | PSI Website,321,222,1.445945946,30.47747748,582,0,0
+Job Search | PSI Website,288,226,1.274336283,37.63274336,850,0,0
+Team,237,159,1.490566038,55.50314465,394,0,0
+Contact Us | PSI Website,159,134,1.186567164,28.00746269,355,0,0
+Locations | PSI Website,127,98,1.295918367,36.70408163,269,0,0
+contract vehicles,89,45,1.977777778,34.04444444,125,0,0
+subsidiaries,80,55,1.454545455,37.56363636,147,0,0
+Differences between Impact Levels 4 and 5—Take 2,68,52,1.307692308,86.26923077,250,0,0
+Health | PSI Website,57,48,1.1875,39.35416667,145,0,0
+Partners | PSI Website,49,45,1.088888889,26.64444444,89,0,0
+(not set),45,45,1,4.777777778,196,0,0
+capabilities,45,38,1.184210526,23.55263158,90,0,0
+Press Releases | PSI Website,41,29,1.413793103,57.4137931,57,0,0
+Benefits | PSI Website,38,35,1.085714286,33.97142857,88,0,0
 Certifications | PSI Website,38,32,1.1875,22.375,66,0,0
-GSA Alliant 2 Unrestricted Government-Wide Acquisition Contract,37,12,3.0833333333333335,147.08333333333334,214,0,0
-Terry Lin,37,31,1.1935483870967742,14.838709677419354,101,0,0
+GSA Alliant 2 Unrestricted Government-Wide Acquisition Contract,37,12,3.083333333,147.0833333,214,0,0
+Terry Lin,37,31,1.193548387,14.83870968,101,0,0
 Account Registration | PSI Website,34,16,2.125,121.8125,109,0,0
-Employment Verification | PSI Website,31,26,1.1923076923076923,27.115384615384617,90,0,0
+Employment Verification | PSI Website,31,26,1.192307692,27.11538462,90,0,0
 Life at PSI | PSI Website,30,25,1.2,23.84,50,0,0
 Defense | PSI Website,28,25,1.12,147.24,56,0,0
-Industries,25,24,1.0416666666666667,25.625,45,0,0
-Awards & Recognitions | PSI Website,22,19,1.1578947368421053,21.36842105263158,34,0,0
-David Truong,22,17,1.2941176470588236,16.88235294117647,52,0,0
+Industries,25,24,1.041666667,25.625,45,0,0
+Awards & Recognitions | PSI Website,22,19,1.157894737,21.36842105,34,0,0
+David Truong,22,17,1.294117647,16.88235294,52,0,0
 Federal Civilian | PSI Website,22,20,1.1,28.35,56,0,0
 Tech Tips | PSI Website,21,10,2.1,31.1,35,0,0
 PSI Awarded $91.7 Million Recompete to Provide C2MS III Support to U.S. Air Force Special Operations,19,16,1.1875,45.5,57,0,0
-employees,19,17,1.1176470588235294,41.1764705882353,30,0,0
-Cybersecurity Support Services | PSI Website,18,15,1.2,16.933333333333334,26,0,0
-In the Community | PSI Website,17,14,1.2142857142857142,28.714285714285715,22,0,0
-PSI JV Awarded $54 Million Executive Service Support Task Order by Department of Veterans Affairs,17,15,1.1333333333333333,29.133333333333333,40,0,0
-Bill Niemeyer,16,13,1.2307692307692308,43.07692307692308,30,0,0
-National Security | PSI Website,16,15,1.0666666666666667,14.6,25,0,0
-State & Local | PSI Website,16,12,1.3333333333333333,65.33333333333333,34,0,0
-David Dougherty,15,12,1.25,26.916666666666668,26,0,0
-Perspectives | PSI Website,15,11,1.3636363636363635,50.18181818181818,24,0,0
-Kim Stephens,14,12,1.1666666666666667,55.833333333333336,27,0,0
-PSI Named Among Computerworld’s Best Places to Work in IT List for Seventh Straight Year,13,12,1.0833333333333333,27,27,0,0
-ProSphere,12,14,0.8571428571428571,9.714285714285714,43,0,0
+employees,19,17,1.117647059,41.17647059,30,0,0
+Cybersecurity Support Services | PSI Website,18,15,1.2,16.93333333,26,0,0
+In the Community | PSI Website,17,14,1.214285714,28.71428571,22,0,0
+PSI JV Awarded $54 Million Executive Service Support Task Order by Department of Veterans Affairs,17,15,1.133333333,29.13333333,40,0,0
+Bill Niemeyer,16,13,1.230769231,43.07692308,30,0,0
+National Security | PSI Website,16,15,1.066666667,14.6,25,0,0
+State & Local | PSI Website,16,12,1.333333333,65.33333333,34,0,0
+David Dougherty,15,12,1.25,26.91666667,26,0,0
+Perspectives | PSI Website,15,11,1.363636364,50.18181818,24,0,0
+Kim Stephens,14,12,1.166666667,55.83333333,27,0,0
+PSI Named Among Computerworld’s Best Places to Work in IT List for Seventh Straight Year,13,12,1.083333333,27,27,0,0
+ProSphere,12,14,0.857142857,9.714285714,43,0,0
 Data Engineering | PSI Website,11,10,1.1,14.9,24,0,0
 Mash Rahman,11,8,1.375,21.125,25,0,0
-Intelligence | PSI Website,10,6,1.6666666666666667,30.666666666666668,17,0,0
-PSI Innovation Facility | PSI Website,10,9,1.1111111111111112,47.111111111111114,24,0,0
-Scott McKelvey,10,9,1.1111111111111112,20.88888888888889,15,0,0
-Tag-Dispatch in C++,10,7,1.4285714285714286,45.285714285714285,34,0,0
-ATL JV Wins $90 Million U.S. Air Force IDIQ Contract to Provide Engineering and Technical Services,8,9,0.8888888888888888,34.44444444444444,20,0,0
-Transitioning Military | PSI Website,8,7,1.1428571428571428,25,17,0,0
-Andy Acuna,7,7,1,8.428571428571429,18,0,0
-Sandy Kelly,7,7,1,10.714285714285714,12,0,0
-Shianna S.,7,6,1.1666666666666667,19,15,0,0
+Intelligence | PSI Website,10,6,1.666666667,30.66666667,17,0,0
+PSI Innovation Facility | PSI Website,10,9,1.111111111,47.11111111,24,0,0
+Scott McKelvey,10,9,1.111111111,20.88888889,15,0,0
+Tag-Dispatch in C++,10,7,1.428571429,45.28571429,34,0,0
+ATL JV Wins $90 Million U.S. Air Force IDIQ Contract to Provide Engineering and Technical Services,8,9,0.888888889,34.44444444,20,0,0
+Transitioning Military | PSI Website,8,7,1.142857143,25,17,0,0
+Andy Acuna,7,7,1,8.428571429,18,0,0
+Sandy Kelly,7,7,1,10.71428571,12,0,0
+Shianna S.,7,6,1.166666667,19,15,0,0
 Billing Systems | PSI Website,6,5,1.2,13.6,14,0,0
 Chief Information Officer Solutions and Partners 3 (CIO-SP3),6,4,1.5,27,9,0,0
 "Enterprise Architecture, Design, & Testi | PSI Website",6,5,1.2,88.6,9,0,0
-IT Support & Operations | PSI Website,6,6,1,33.666666666666664,10,0,0
+IT Support & Operations | PSI Website,6,6,1,33.66666667,10,0,0
 Modeling & Simulation | PSI Website,6,5,1.2,11.8,14,0,0
-Salesforce Development 2023: Best Practices and Q&As,6,6,1,14.166666666666666,21,0,0
-Transformation Twenty-One Total Technology-Next Generation (T4NG)  ,6,6,1,16.333333333333332,6,0,0
+Salesforce Development 2023: Best Practices and Q&As,6,6,1,14.16666667,21,0,0
+Transformation Twenty-One Total Technology-Next Generation (T4NG)  ,6,6,1,16.33333333,6,0,0
 IT Modernization | PSI Website,5,2,2.5,22.5,12,0,0
 Mark C.,5,5,1,25.4,13,0,0
 Medical Modeling & Simulation | PSI Website,5,5,1,35.6,11,0,0
-One Acquisition Solution for Integrated Services (OASIS),5,3,1.6666666666666667,70.66666666666667,12,0,0
+One Acquisition Solution for Integrated Services (OASIS),5,3,1.666666667,70.66666667,12,0,0
 PSI Announces Appointment of Strategic Advisor,5,5,1,26.6,12,0,0
-PSI WINS $23M RECOMPETE TO PROVIDE EBMS TRANSFUSION SUSTAINMENT SERVICES TO SUPPORT DHA,5,3,1.6666666666666667,27.666666666666668,16,0,0
-Systems Intergration | PSI Website,5,3,1.6666666666666667,44.666666666666664,7,0,0
-"Chiang Ren, Ph.D.",4,3,1.3333333333333333,7,4,0,0
-Cloud Computing | PSI Website,4,3,1.3333333333333333,34,8,0,0
+PSI WINS $23M RECOMPETE TO PROVIDE EBMS TRANSFUSION SUSTAINMENT SERVICES TO SUPPORT DHA,5,3,1.666666667,27.66666667,16,0,0
+Systems Intergration | PSI Website,5,3,1.666666667,44.66666667,7,0,0
+"Chiang Ren, Ph.D.",4,3,1.333333333,7,4,0,0
+Cloud Computing | PSI Website,4,3,1.333333333,34,8,0,0
 DOE Awards Navarro-ATL Team $389 Million Contract for Management and Operation of Hanford 222-S,4,4,1,23.5,13,0,0
-Dr. Dean Smith,4,3,1.3333333333333333,80.33333333333333,6,0,0
+Dr. Dean Smith,4,3,1.333333333,80.33333333,6,0,0
 Eric Skiff,4,5,0.8,57.8,13,0,0
-I Work for PSI,4,6,0.6666666666666666,3.8333333333333335,35,0,0
+I Work for PSI,4,6,0.666666667,3.833333333,35,0,0
 Medical Web Applications Support | PSI Website,4,4,1,8.5,15,0,0
-VMware vSphere 8.0: Virtualization Perfected,4,3,1.3333333333333333,78.33333333333333,11,0,0
+VMware vSphere 8.0: Virtualization Perfected,4,3,1.333333333,78.33333333,11,0,0
 5 Java Development Tips ,3,2,1.5,7,3,0,0
-500 | PSI Website,3,3,1,7.666666666666667,4,0,0
+500 | PSI Website,3,3,1,7.666666667,4,0,0
 Blood Management | PSI Website,3,2,1.5,34.5,4,0,0
 Communities of Excellence | PSI Website,3,2,1.5,44.5,3,0,0
 DISA ENCORE III,3,2,1.5,5.5,4,0,0
-DevSecOps | PSI Website,3,3,1,1.3333333333333333,5,0,0
+DevSecOps | PSI Website,3,3,1,1.333333333,5,0,0
 PSI Acquires ProSphere to Enhance its Position as a Health IT Leader,3,2,1.5,8,5,0,0
 Quarterline,3,2,1.5,11.5,8,0,0
 Zachary M.,3,2,1.5,42,6,0,0
