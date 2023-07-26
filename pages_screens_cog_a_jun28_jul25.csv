@@ -1,141 +1,28 @@
-Page path and screen class,Views,Users,Views per user,Average engagement time,Event count,Conversions,Total revenue
-/,116,76,1.526315789,16.25,325,0,0
-/h2f-contract,69,159,0.433962264,13.74213836,502,0,0
-/careers,57,37,1.540540541,41.10810811,179,5,0
-/our-solutions,14,5,2.8,18.8,18,0,0
-/leadership,11,4,2.75,25.5,26,0,0
-/customer-service-technician-job-details,8,5,1.6,13.6,17,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVgpiVej50yIKCyJ3hVkJtcJTb_J5Ihb2ddRTSYoEUEimoXq92wFHDRoCviIQAvD_BwE,8,1,8,0,8,0,0
-/at-spotlight-tadd-berg,6,3,2,22.66666667,7,0,0
-/at-spotlight-kym-mathis,4,2,2,67.5,5,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw756lBhDMARIsAEI0Agkva0ivWN0O9azyh_1hQ9o0PNiwkntiZAV549Io9b5arYyfj_EtCEkaAqInEALw_wcB,3,1,3,0,3,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwnrmlBhDHARIsADJ5b_nULfcL7-72D9LM45PvvvBWBPgJ7nlhOGrEy3AbaHG-ZO3w4L4rcuMaAr6-EALw_wcB,2,1,2,18,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF04B2VsxnPjLVX7nKFk5d9LN3qAD1wuRWmvmLTkAUMUJU_U3SC2OuRoCmwwQAvD_BwE,2,1,2,10,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF0FvjO2IgUjy_xTMOsIc86Xf7nYYoAxKTPUzoGVkONPetw7Lq8w3axoCwkcQAvD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVqbjBM9OHKoDDgMBtrLD1ckRKyyW72Y9-qNHa9S72JQMiYwZxsQ75xoCPc8QAvD_BwE,2,2,1,0,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjw5MOlBhBTEiwAAJ8e1tl9q6YwKwHQl3GEoYGsuf_dnFIX3fOhJX_UgrjljodfvgvnCloGnhoCquMQAvD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIFTk_ZQ4NBq_FdHXbffAKuakqEWxxpQVyi73zG8zLFK7_WOeKyVOwxoChLMQAvD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu81c-nV0yp4FCkHnMMGjRraLRHiXzgLkiOjSC6RYPlW7b59APTuexxoCmuMQAvD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu8oFtmErsaMirKLOthky1KJ-4Ri3nYazUEs7glqQqqwjIag6h7MdBxoCJZsQAvD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLuxi6ti0Q8yoRaZH4m5kPjtcrMpriWFMsn7dhF-NpMl01I4Ygy2z57xoC0E0QAvD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI_8WD0rCqgAMVGjfUAR1qkQTgEAAYASAAEgIxTfD_BwE,2,1,2,0,2,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIuvLxx_Dy_wIVuKAAAB069QmxEAEYASAAEgLss_D_BwE,2,1,2,4,2,0,0
-/h2f-contract%3Fwbraid=CjsKCQjwk96lBhDtARIqAPn4tNte6Inp8RRRvrZHKd5sdzyWbI5G676bg9E1rRD6EQfKHI1kEU9HGgJ7ew,2,2,1,0,2,0,0
-/copy-of-privacy-statement,1,1,1,0,3,0,0
-/gsa-8a-stars-iii,1,1,1,22,3,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw1_SkBhDwARIsANbGpFsDZK-Rjc8SfYzvY7qcTYaPl1QtlKv9BknknrW-PfYXyKFSkL2MruoaAjlpEALw_wcB,1,1,1,10,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw1_SkBhDwARIsANbGpFv6cBzA8qtK1kSV_dt8U4LHVmNhz74vJX9Eb0iWB2oL3pg5irCXyU4aAhvYEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw2eilBhCCARIsAG0Pf8s9Nwr5MuvSVZ_DA8BOkH-JFnws6wLOGjZjvJYIcXjGL3hBfRaUivMaAppIEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw2eilBhCCARIsAG0Pf8tFuKPNcIr8hZcY_ZRgAFS7AEERNyODK2Hp7KSptbAkta_eDNZ_AW0aAi1-EALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw2eilBhCCARIsAG0Pf8urb-8soNZxJbeFI7WnSAovvyU6mXmWFVebHmByGkX8VNq9_axB3GkaAlZlEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw5f2lBhCkARIsAHeTvliWA5dLSHuM7k_ukdSAiZ69LtUuIJziYpHhKrSZhVyjk0hhrwZkG-8aAkevEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw756lBhDMARIsAEI0AgnANelFfYT2xOrMBk3R2Zg6EPGJ8MJSOYGpffYc9Zyrm6ghC210a-8aAsBFEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjw8NilBhDOARIsAHzpbLCchI9GhpyD0dzTS1nY0lWPHF8fMOC_3hSRO0DeAK3bH9urIEWO0KUaAgrsEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwho-lBhC_ARIsAMpgMocefXC1GASPi3B6amvDqz-zxxgDm9fTLmV74x3lb2oiWaH5TLcrNl4aApZSEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwk96lBhDHARIsAEKO4xaKtUVke-CzQinAWdA1np4k8oZJeHAAnf11zD_1cFT8Xn3mJvWj0-0aAuXMEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwtO-kBhDIARIsAL6LorcUcbQlEAiOdo6vsAcaEBP9hw5uAZE8_SFvkAFOpdiCqzWWgIgGxZ8aAuJbEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwtO-kBhDIARIsAL6LordL1XhUhEhCh6zlurrXxZFAS0NPoySISseWtHMARTMoq8klhGuK6-IaAkmIEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwwvilBhCFARIsADvYi7J-TL12d7V26K7CesKB-3098y-2yGkP_cAYbyCVQ2MUngu6wT_ybysaAsFMEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwwvilBhCFARIsADvYi7L0ftXJbK3MMRlJddpLHBtyJywnPVh4YhMJGJ6bspH-8nXNrhHO30caAhKGEALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=Cj0KCQjwzdOlBhCNARIsAPMwjbz3G5o7JbAnlGBA2zDSp9pwP8U77otqdq1Pg7FDY4gvrBRlNdiM45EaAgZREALw_wcB,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-7OlBhB8EiwAnoOEk5Pe_xN93pSvJYA1KQvq2Gbw13FFpmYIzDNF6DdGKAAAuxqz604iNRoCdKEQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF6CaxyNC-IEPF0sg3wgkK1aE2DJaW5FLfllR1qmyM4_O7pXme54acxoCgOoQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF6h7bLKINGxJ46Ro9c5_wqWFcpX_nikF-2Gm0k3cRX5YAxXm9TM0ihoCQIUQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF7e97a_lOc62zyo9a_fIPRxvXXLBSFgmbkh-t4FscPDobyCXRfhKdRoCMqsQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF8vtXVNE3_89Oy5d2Uxh-Pu_8VHtwsbn0_S7O-ZNaJPZySGk9SExAxoCbZoQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF9MKXCXVZnSLxBxICgRJHU6H-WEWBQ7Rc7Wz1CD0tB0tGkBGiY3OURoC0SgQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeF_cIB8apqkGfYrPSjRd8-xsNsGNUc8qHOozUrndPkjNjwJingLKh7BoCv4IQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeFxxOEmlD9ijl6oAZbrznzn15tGeNgW__6i2rrNdgEVnhl_AYDB7toRoCgtgQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeFzEvY2waoDQSEKzv56ok_igCHKnUM2KOiNtogia7EtJo0NGrXC0mOxoCsD8QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw-vmkBhBMEiwAlrMeFzepoQ_YT7ZbETyNj0-3ptYaZ_5owhMwIYiWXsgFCA3qS1lBnD90URoCwzcQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw04yjBhApEiwAJcvNoUq0s5rxL6IBZRb3WCf9GlAl3wgBWDgULe0UhUfb7rh3Lxs8s9sobRoCz5cQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw2K6lBhBXEiwA5RjtCYAjaFPZoIXtMU9ZeRGRjbMlieCkRJrKFj5mGUViojfM6RSjMpwZEhoC3QgQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVg_jgyZdiufICKEn37hQeSSAmKkPzv-6U20_MFHqZKmOjQIsO628MBoCQMIQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVlUFWS3tu4Y0xrKkSacmMU7j6OsIqD_GmK1gF3dSYKHLFAVt34hLAxoCfsQQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVlx7g3rq36RPXkfxyETXAkOwBeITaZ5JDxZ7QhHsAGCDwg-cE3C0SBoC4S0QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVpDeAuQ8nXaehsyorVzq13kyC3IWKU4qc9ERXZc5l8RYkgX7bXEYXRoCCy8QAvD_BwE,1,1,1,2,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVr0yOquxc9tft84omJNlt8cn4s2pN9d_qtqLB1t18gD3IKrU8rW93xoCiHwQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw5MOlBhBTEiwAAJ8e1iYv7SR6McvyDR4vOxu2eTm8218vrqAvCC5WOV-f8piY-7Jrgcim_xoCnVEQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjw5MOlBhBTEiwAAJ8e1k1m6ui3ZOZdUUNpvmM3vDPOFVLi4FhCiwh3Ikt9tXy-S7zx5tOUohoCr-8QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIAUCMnEvl-iU0B6HQWL6PbEH1i1sybgYsMjLqbUNEr9zu0prmLnWwBoCBbkQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIFCHs2MUR7WugqDln_Jcv0MuD2Kz7wLZNVM56iUn4qQfMIvThwJ8RhoCo3kQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIGQ1tN2H3pOBj3Djo_sQTRdiJkCA6EN10F9_5wYPa1V2Zw0kvvfnYBoC940QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIGyVrouwr93WMAhzaQh0wLleqm8UKO8qLU6wgKCM_p_Qt9x35vNZSxoC5ywQAvD_BwE,1,1,1,2,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIKOWR_449rymvErR8gCkMJB3aSe9hKLwrZO3bFSpSXuNH0C4QCFBDxoC1k4QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIOUy9v2o6CqXibiIYYv6HKAiNgyeOYwHEJuG3NkMEj2Sy-9NEugCVBoCZI0QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwqZSlBhBwEiwAfoZUIP5k8GKMMoYZSpViJ11Fut8M34fHcXB9I02M-lTxuHK0vGIYQWJUPBoC5wQQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwscGjBhAXEiwAswQqNA386fdKOWIn4RYg8buuIAuInvXyLbvbax2n-NOlAN1KquiYru6HTRoCjaMQAvD_BwE,1,0,0,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwtuOlBhBREiwA7agf1gRhK1_dArLyRewvLSZuaQ0bwOfEalaMNwli1-4ZbOx6ew-hdm9-ihoC2YMQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwtuOlBhBREiwA7agf1iHMUaDZKtWQEH9SKq3u-oNhJklNV7NJA2q0VfQC9M9UMo0D7nn8SRoCLQwQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwtuOlBhBREiwA7agf1lgNmJmAYEWHUMjll1xsrM_MCeEyYuSrMzPS_OvE536CdA_e82MweBoCRq4QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwtuOlBhBREiwA7agf1ljkgjtj8uv7nA5Is1XuQkxuqOxkjS7kR46yyPxnCdqY2zZyAz6hpxoCDXcQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwwb6lBhBJEiwAbuVUSiZ84nJyP45KJfKzrSYuiuyASCcA-yFxfoD-MqRQFNsjQXzgoysq7RoCWHMQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwwb6lBhBJEiwAbuVUSlqJg9Uo5coGaxswjcIkBGMgzLqUVkyeCMpi_P2BMSTjzzaaQ7sZtRoCB_UQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwwb6lBhBJEiwAbuVUSmwaiOuLfivl1qOgNbjP6Bk4dbJn9Jr5s0UY-6DroevsNmRxdh4dQhoCgt0QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwwb6lBhBJEiwAbuVUSqJ-HHAVK6d2a6BClVf3A5H4M6d_F7ZeZDHnr0BKRefw2m879XbX1xoCIZAQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu1f2xUel0RbdxF6xcvaDbYaheOkilk-5nxY_pdm4gN_CXSC4NOX2YBoC2csQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu5w30hcQ_nigezF0AmE-xiQ-g89CwhPL1SnuzsZN2J63vgUJR252kBoCfToQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu8KgAoi18jXvwUKTResc-YhWbz_9vNoJjnpuYsdNUI9rIRo6spNpORoCG08QAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu9yMSr2TNMMyL2Bm0teM2ZHC3uEWCJG7KoSW15DzXv7RFhv0VY8QpxoCW8EQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu_I4WGx41lMFjo0Nql9DFiHIMej1qDLZd2ScA_xWBakEet648uYSMBoCsdcQAvD_BwE,1,0,0,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu_Z36e7GoEOtk7ED7vr55PPk55_BwYb-ODqACyVc7ALKzG0grfNRZBoC3IsQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=CjwKCAjwzJmlBhBBEiwAEJyLu_r0p_j7oaqCn4C_Xw8HhmUlUBp1Gz5P1ypz8OlANWohWAFYZRtaGhoC3pwQAvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI-c-23PL8_wIVECgBCh1eVwfgEAEYASAAEgLmPPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI-tC9ssvo_wIV5jTBCh0oSgFcEAEYASAAEgJpjPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI0YD3xeCngAMVUh19Ch08RA4-EAAYASAAEgK1e_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI0_qZkpzm_wIV5-_jBx0Wtw3jEAEYASAAEgLanvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI0fLKqa-bgAMVJYqmBB1GygbHEAEYASAAEgJ7SfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI0qqxguKLgAMVg9wYAh14BA6EEAEYASAAEgJXdvD_BwE,1,1,1,1,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI0rnHzrGbgAMVworLAR2neghHEAEYASAAEgLXOPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI28iOkOTo_wIV5hdECB25LgD-EAEYASAAEgKlEvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI3NiosvL8_wIVGTyzAB2W9AOXEAEYASAAEgLrlvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI4NjV1IaWgAMVv0d_AB2dCQaKEAAYASAAEgKDZfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI4uvBkprm_wIVhsVbCh3ymAA9EAEYASAAEgKoLvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI4viL3K76_wIVmRgBCh2FrQWuEAEYASAAEgJ3W_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI5-qSg9GdgAMVfnxvBB1UuwjkEAAYAiAAEgLEEfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI5PLt-ODo_wIV5uH9BR2JVAQdEAEYASAAEgJXaPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI64OmjoeogAMV6DoBCh3BDg8uEAEYASAAEgK8-fD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI686S3fb8_wIVVdezCh3qFgB2EAEYASAAEgJ2D_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI6JGk24SbgAMVxtvjBx2PTAuWEAAYASAAEgIrCvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI6uDHsaDr_wIVe0AJCR2gJQZbEAEYASAAEgLQtvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI7JbiiP2agAMVoljBCh3PVQbkEAEYASAAEgK4v_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI7fSQ7-Dy_wIVR8azCh0NFwCzEAEYASAAEgIEy_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI88zfhvT8_wIVjKXRBB1tgwnKEAEYASAAEgL6OvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI_du06v-dgAMV4JODCB3a7AzUEAEYASAAEgKG5vD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMI_emD17uYgAMVAoXICh0IZQUIEAAYASAAEgJR3_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIh8nIlen8_wIVTgRoCB0pSQa1EAEYASAAEgJ_3_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIhLSr-f2LgAMVCc7ICh3Z2gKVEAAYASAAEgKyO_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIjIb0rbuOgAMVSzTBCh0otwt8EAEYASAAEgIU_fD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIkIL88NqGgAMVRM6GCh2l-gFKEAAYASAAEgImr_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIkJOZjYzm_wIVJR3BCh0O6QFWEAEYASAAEgKybvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIkMWZsomggAMVLtT9BR0ZIQrLEAEYASAAEgK_ovD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIkO7ArLuOgAMVZSTBCh0oDwh3EAEYASAAEgIYZfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIlNnr8IaogAMVD1QJCR1IHgasEAEYASAAEgK1s_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIluvJi5_r_wIVkRaKAx2_Vg4bEAEYASAAEgJQqfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMImMqEk4aogAMVLjuzAB0ZxQfjEAEYASAAEgLfBfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIme37hLP6_wIV3MNPAh1wdgjBEAEYASAAEgIhmvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMInbK3p6qbgAMVMkMJCR1_JgKvEAEYASAAEgJVGfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIoYSRouiVgAMV8_WUCR1iGAmGEAAYASAAEgKTwvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIpszfquj8_wIVIQNMCh2NFAUMEAEYASAAEgKXl_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIqpCK_9CdgAMV3pCmBB0cQApWEAEYASAAEgL5YPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIrNaNuZKqgAMVQ0Z_AB17TQZnEAAYASAAEgJuh_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIrNmv6duGgAMV7GxvBB0JsQUeEAAYASAAEgIHSfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIrrvZ1u_3_wIVY7zRBB13dgymEAEYASAAEgIga_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIs4arnYKogAMVxKbRBB0glAckEAEYASAAEgIhp_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIu-_FgZzm_wIVViUBCh3sjw6iEAEYASAAEgJ5yPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIueCSsbuOgAMVQ_8YAh3Q1QPYEAEYASAAEgLNJfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIufmjma_6_wIVaP4YAh34xAOSEAEYASAAEgLrNPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIuuqfpoCegAMV4OmUCR041wmwEAEYASAAEgI-IvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIvdzLsfH8_wIVhisBCh2f0gFbEAEYASAAEgJ-__D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIvtnu7K2OgAMVWMb1Ah3fuQB4EAEYASAAEgIfRfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIvu3M85zm_wIVhk3BCh10KQkBEAEYASAAEgJHTfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIw-Hvi6_6_wIVYNP1Ah2BkAOTEAEYASAAEgLXxfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIw47do7uOgAMVM4rRBB17fwkFEAEYASAAEgJqgfD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIxK_q7_OLgAMVT48AAB3dxAWeEAEYASAAEgIo9_D_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIxPCJ2Ln4_wIVst_jBx2AwQd4EAAYASAAEgJB4PD_BwE,1,1,1,3,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIytPI9Zzm_wIV5sn1Ah2oKQcEEAEYASAAEgKstvD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIz9TOvPDy_wIVL6AAAB1e1gEAEAEYASAAEgLYiPD_BwE,1,1,1,0,1,0,0
-/h2f-contract%3Fgclid=EAIaIQobChMIzqrAlaKJgAMV7w6tBh1eNwRwEAAYASAAEgKfrvD_BwE,1,1,1,1,1,0,0
-/h2f-contract%3Futm_campaign=f17d0058-d26a-4631-9955-0c034ee78433&utm_source=so&utm_medium=mail_lp,1,1,1,0,1,0,0
-/h2f-contract%3Fwbraid=CjoKCAjwtuOlBhBVEioAiNR-8H-3NQ7V5FBX2auMCu42eqDy47lGPqZKHGDiuw5bhrpn5x9Zk8IaAiQ7,1,1,1,0,1,0,0
-/privacy-policy,1,1,1,0,3,0,0
+# ----------------------------------------
+# Report CSV Export
+# Account: Cognito Systems, LLC
+# Property: Cognito Systems LLC
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230628
+# End date: 20230725
+
+Page title and screen class,Views,Users,Views per user,Average engagement time,Event count,Conversions,Total revenue
+Athletic Trainers | CognitoSystems,198,145,1.3655172413793104,13.613793103448275,581,0,0
+Government Contracting | Cognito Systems Llc,117,73,1.6027397260273972,17.232876712328768,320,0,0
+CAREERS | CognitoSystems,56,37,1.5135135135135136,41.32432432432432,178,5,0
+Our Solutions | CognitoSystems,14,5,2.8,18.8,18,0,0
+(not set),11,12,0.9166666666666666,2.25,47,0,0
+Leadership | CognitoSystems,11,4,2.75,25.5,26,0,0
+Customer Service Technician Job Details | CognitoSystems,7,5,1.4,13.4,16,0,0
+AT Spotlight: Tadd Berg | CognitoSystems,6,3,2,22.666666666666668,7,0,0
+Entrenadores atléticos | CognitoSystems,5,3,1.6666666666666667,5.666666666666667,11,0,0
+AT Spotlight: Kym Mathis | CognitoSystems,4,2,2,67.5,5,0,0
+Pelatih Atletik | Sistem Kognito,3,3,1,28.333333333333332,11,0,0
+Preparatori Atletici | CognitoSystems,2,1,2,1,6,0,0
+Entraîneurs athlétiques | CognitoSystems,1,1,1,21,1,0,0
+Legal Policy | CognitoSystems,1,1,1,0,3,0,0
+Privacy Policy | CognitoSystems,1,1,1,0,3,0,0
+gsa-8a-stars-iii | CognitoSystems,1,1,1,22,3,0,0
+Atletik Antrenörler | CognitoSystems,0,1,0,81,2,0,0
