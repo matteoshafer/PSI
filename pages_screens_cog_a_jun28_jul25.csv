@@ -1,22 +1,12 @@
-# ----------------------------------------
-# Report CSV Export
-# Account: Cognito Systems, LLC
-# Property: Cognito Systems LLC
-# ----------------------------------------
-# 
-# All Users
-# Start date: 20230628
-# End date: 20230725
-
 Page path and screen class,Views,Users,Views per user,Average engagement time,Event count,Conversions,Total revenue
-/,116,76,1.5263157894736843,16.25,325,0,0
-/h2f-contract,69,159,0.4339622641509434,13.742138364779874,502,0,0
-/careers,57,37,1.5405405405405406,41.108108108108105,179,5,0
+/,116,76,1.526315789,16.25,325,0,0
+/h2f-contract,69,159,0.433962264,13.74213836,502,0,0
+/careers,57,37,1.540540541,41.10810811,179,5,0
 /our-solutions,14,5,2.8,18.8,18,0,0
 /leadership,11,4,2.75,25.5,26,0,0
 /customer-service-technician-job-details,8,5,1.6,13.6,17,0,0
 /h2f-contract%3Fgclid=CjwKCAjw44mlBhAQEiwAqP3eVgpiVej50yIKCyJ3hVkJtcJTb_J5Ihb2ddRTSYoEUEimoXq92wFHDRoCviIQAvD_BwE,8,1,8,0,8,0,0
-/at-spotlight-tadd-berg,6,3,2,22.666666666666668,7,0,0
+/at-spotlight-tadd-berg,6,3,2,22.66666667,7,0,0
 /at-spotlight-kym-mathis,4,2,2,67.5,5,0,0
 /h2f-contract%3Fgclid=Cj0KCQjw756lBhDMARIsAEI0Agkva0ivWN0O9azyh_1hQ9o0PNiwkntiZAV549Io9b5arYyfj_EtCEkaAqInEALw_wcB,3,1,3,0,3,0,0
 /h2f-contract%3Fgclid=Cj0KCQjwnrmlBhDHARIsADJ5b_nULfcL7-72D9LM45PvvvBWBPgJ7nlhOGrEy3AbaHG-ZO3w4L4rcuMaAr6-EALw_wcB,2,1,2,18,2,0,0
